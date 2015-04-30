@@ -1,0 +1,16 @@
+{
+  "name": "cookiedog",
+  "version": "0.0.0",
+  "description": "A cookie store as a client",
+  "keywords": [
+    "cookie",
+    "store",
+    "client",
+    "parser"
+  ],
+  "repository": "git@github.com:fritx/cookiedog.git",
+  "main": "cookiedog.js",
+  "dependencies": {
+    "lodash": "^3.7.0"
+  }
+}
